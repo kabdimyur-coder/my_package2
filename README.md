@@ -12,4 +12,5 @@
 #потом написал скрипт подписывающийся на топики датчиков /odom , /imu , /Laserscan []https://github.com/kabdimyur-coder/images/blob/master/5.png?raw=true
 # 5.Эти два скрипта расположил в нутри контейнера []https://github.com/kabdimyur-coder/images/blob/master/6.png?raw=true
 # 6.Далее запустил эти два скрипта в терминале xpra робот двигался как пылесос объезжая препятствия и в терминале отображались данные с датчиков []https://github.com/kabdimyur-coder/images/blob/master/7.png?raw=true
+# 7.Далее я закомител и запушил образ на DockerHub docker pull kabdimyur/ros1:container1
 
